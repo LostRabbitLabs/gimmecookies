@@ -14,6 +14,14 @@ Follow the steps below to install 'gimmecookies'.
      chmod 655 gimmecookies.py
 
 
+This script also requires 'Sublist3r':
+https://github.com/aboul3la/Sublist3r
+
+     git clone https://github.com/aboul3la/Sublist3r
+     cd Sublist3r
+     pip install -r requirements.txt
+     
+
 # Usage
 Simply provide a domain name and run the script.
 
