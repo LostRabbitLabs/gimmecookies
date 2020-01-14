@@ -17,8 +17,6 @@ Follow the steps below to install 'gimmecookies'.
 
 This script also requires 'Sublist3r' in your 'gimmecookies' directory:
 
-https://github.com/aboul3la/Sublist3r
-
      git clone https://github.com/aboul3la/Sublist3r
      cd Sublist3r
      pip install -r requirements.txt
