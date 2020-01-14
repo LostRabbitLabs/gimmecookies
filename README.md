@@ -3,6 +3,7 @@ Python3 script to generate CSV output files from domain-wide crawl for digital a
 
      Language: Python 3
      Libraries: sys, socket, subprocess, requests
+     Additional Packages Needed: Sublist3r
      Purpose: Penetration Testing / Digital Asset Management
 
 
