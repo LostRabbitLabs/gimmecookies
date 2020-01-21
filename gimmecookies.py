@@ -51,6 +51,8 @@ inputfile = open(hostfile, "r")
 all_hosts = inputfile.readlines()
 inputfile.close()
 
+all_hosts = set(all_hosts)
+
 def get_cookies(hosts,ip):
     session = requests.Session()
     try:
